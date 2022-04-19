@@ -1,0 +1,11 @@
+.LocalVideo {
+    position: fixed;
+    right: 0;
+    margin: 50px;
+    opacity: 70%;
+    z-index: 999;
+}
+
+.LocalVideo video {
+    border-radius: 20px;
+}
